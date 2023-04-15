@@ -34,9 +34,9 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 
 * Data imported from GCS into **BigQuery** for manipulation and analysis using SQL.
 * Visualizations to be developed in **Google Data Studio**.
-* Datatypes made consistent and then consolidated into one view using [this query](https://github.com/shivamgarg444/Cyclistic-Case-Study/blob/main/uncleaned_compile.sql).
+* Datatypes made consistent and then consolidated into one view using [this query](https://github.com/DamianoSkyy/Cyclistic_Cast_Study/blob/main/uncleaned_compile.sql)
 * To assist in analysis, 4 new columns were added (start point location, end point location, ride start day name and ride duration in seconds).
-* `3,742,624` rows were returned but required cleaning.
+* `5,803,720` rows were returned but required cleaning.
 * **Cleaning process** :
   * Missing start and end station names found using [this query](station_check.sql).
   * Other columns checked using [this query](columns_check.sql).
