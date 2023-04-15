@@ -48,4 +48,9 @@ How do annual members and casual riders use Cyclistic bikes differently ?
 The final dataset containing trip data of roughly 4.4 million ride records was analyzed. 
 Visualizations were developed in Google Data Studio to observe differential trends between the usage by casual riders and annual members.  
 
-## Total Ride share
+### Total Ride share
+![piechart](viz/pie_chart.jpg)
+##### **Insights**
+* 60.5% of total rides (2.7M) were taken by annual members.
+* 39.5% of total rides (1.7M) were taken by casual riders.
+* Annual members form the majority of business for the company and maximizing on this number should be the focus in the long run.
