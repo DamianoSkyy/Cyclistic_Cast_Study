@@ -41,7 +41,7 @@ How do annual members and casual riders use Cyclistic bikes differently ?
   * Missing start and end station names found using [this query](station_check.sql).
   * Other columns checked using [this query](columns_check.sql).
   * Negative and zero ride duration values found using [this query](duration_check.sql).
-> Following the cleaning and consolidating data in one table, `3,476,354` rows were returned for proceeding to analysis. All of this was achieved using [this single master query](single_query.sql). `JOIN`, `WITH`, `UNION ALL`, `WHERE`, _subqueries_ and many other SQL functions were used here.
+> Following the cleaning and consolidating data in one table, `5,803,720` rows were returned for proceeding to analysis. All of this was achieved using [this single master query](single_query.sql). `JOIN`, `WITH`, `UNION ALL`, `WHERE`, _subqueries_ and many other SQL functions were used here.
 
 ## Analysis and Viz
 
